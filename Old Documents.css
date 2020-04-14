@@ -1,0 +1,45 @@
+
+.Header {
+    text-align: center;
+    display: inline inline;
+    font-family: Montserrat;
+}
+
+.MAINBODY {
+    text-align: center;
+    display: inline inline;
+    font-family: Montserrat;
+}
+
+#Warning {
+    color: crimson;
+    font-size: 35px
+}
+
+#TextUnderWarning {
+    font-size: 20px
+}
+
+#linksback {
+    font-family: Montserrat;
+    font-size: 40px;
+    float: left
+}
+
+.Nav ul,li,a {
+    display: inline;
+    padding-left: 10px;
+    text-decoration: none;
+    color: black;
+    padding-right: 20px
+}
+
+#linkscontinue {
+    font-family: Montserrat;
+    font-size: 40px;
+    float: right
+}
+.LINKS {
+    display: table-row;
+    display: inline
+}

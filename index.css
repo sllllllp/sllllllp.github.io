@@ -1,0 +1,85 @@
+body {
+    font-family: Montserrat;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    resize: both;
+}
+
+#Menu {
+    float: left;
+    padding-left: 0px;
+    font-family: Montserrat;
+    font-size: 30px;
+    padding-top: 0px;
+    display: table-row;
+}
+
+.Nav {
+    padding: 20px 40px 100px 25px;
+    background-color: #2D3F82; //#004A7F
+    margin-bottom: 5px;
+    padding-top: 5px
+}
+
+#SocialNAV {
+    float: left;
+    position: absolute
+}
+
+.Nav ul {
+    display: inline; 
+    padding-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.Nav li {
+    display: inline; 
+    padding-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.Nav a {
+    display: inline; 
+    padding-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.Home {
+    position: absolute
+    top: -9px;
+    padding: 50px 45px 500px;
+    background-image: url(Q400%20NEW.png);
+    color: white;
+    font-family: Montserrat;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    box-sizing: border-box;
+    font-size: 25px
+}
+
+.Nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.info1 {
+    font-family: Montserrat;
+    font-size: 35px;
+    padding: 40px
+}
+
+.div {
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center center;
+}
+
+.BodyMAIN {
+    text-align: center;
+    display: inline inline;
+}

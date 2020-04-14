@@ -1,0 +1,72 @@
+body {
+    font-family: Montserrat;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    resize: both;
+}
+
+#Menu {
+    float: left;
+    padding-left: 0px;
+    font-family: Montserrat;
+    font-size: 30px;
+    padding-top: 0px;
+    display: table-row;
+}
+
+.Nav {
+    padding: 20px 40px 100px 25px;
+    background-color: #2D3F82;
+    margin-bottom: 5px;
+    padding-top: 5px
+}
+
+.Nav ul li a:hover {
+    text-decoration: underline;
+}
+
+#SocialNAV {
+    float: left;
+    position: absolute
+}
+
+.Nav ul,li,a {
+    display: inline; 
+    padding-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.AboutUS {
+    position: absolute
+    top: -9px;
+    padding: 25px 25px 25px;
+    background-color: dimgrey;
+    color: white;
+    font-family: Montserrat;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    font-size: 25px
+}
+
+
+.MainInfo {
+    font-family: Montserrat;
+    font-size: 25px;
+    padding: 40px
+}
+
+.Info {
+    font-family: Montserrat;
+    font-size: 25px;
+    padding: 40px
+}
+
+.Info1 {
+    font-family: Montserrat;
+    font-size: 25px;
+    padding: 40px
+}
